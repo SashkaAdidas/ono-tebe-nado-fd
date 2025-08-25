@@ -113,7 +113,6 @@
   margin-right: 20px;
 }
 .cover__description {
-  z-index: 1;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column-reverse;
@@ -390,7 +389,6 @@
 .footer__social-list-item {
   width: 240px;
   height: 48px;
-  gap: 48px;
 }
 .footer__social-icon {
   width: 48px;
