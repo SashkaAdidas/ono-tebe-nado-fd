@@ -325,27 +325,27 @@
   display: grid;
   grid-template-columns: auto 1fr auto;
   align-items: flex-start;
-  margin-top: 180px;
+  margin-top: 183px;
   padding-right: 50px;
   padding-left: 50px;
 }
 /* меню слева */
-.address {
+.footer__address {
   font-style: normal;
   font-size: 18px;
   line-height: 24.3px;
 }
-.address__tel {
+.footer__address__tel {
   text-decoration: underline;
   text-underline-offset: 4px;
   list-style-type: none;
 }
-.address__messeg {
+.footer__address__messeg {
   text-decoration: underline;
   text-underline-offset: 4px;
   list-style-type: none;
 }
-.address__streetf {
+.footer__address__street {
   list-style-type: none;
 }
 /* меню центральное */
@@ -359,7 +359,7 @@
 }
 .footer__menu-list {
   text-align: center;
-  margin-right: -289px;
+  margin-right: -365px;
   padding-top: 7px;
 }
 .footer__menu-list-item {
