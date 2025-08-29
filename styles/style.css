@@ -252,7 +252,6 @@
   margin-top: 166px;
   padding: 0 50px 80px 50px;
 }
-/* меню центральное */
 .footer__menu {
   font-style: normal;
   font-weight: 400;
@@ -271,7 +270,6 @@
 .footer__menu-link_active {
   text-decoration: none;
 }
-/* меню справа */
 .footer__social-list {
   list-style-type: none;
   display: flex;
