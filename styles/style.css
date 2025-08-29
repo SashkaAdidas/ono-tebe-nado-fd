@@ -254,14 +254,6 @@
   margin-top: 166px;
   padding: 0 50px 80px 50px;
 }
-/* меню слева */
-.footer__address__item {
-  text-underline-offset: 4px;
-}
-.footer__address__text {
-  list-style-type: none;
-  margin-top: 2px;
-}
 /* меню центральное */
 .footer__menu {
   font-style: normal;
